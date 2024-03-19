@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 40px auto;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
